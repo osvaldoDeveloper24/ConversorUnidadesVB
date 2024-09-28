@@ -14,3 +14,4 @@ C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\Unidades\obj\Debug\net
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadAlmacenamiento.resources
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadMasa.resources
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadTiempo.resources
+C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\Unidades\obj\Debug\net8.0-windows\Unidades.sourcelink.json

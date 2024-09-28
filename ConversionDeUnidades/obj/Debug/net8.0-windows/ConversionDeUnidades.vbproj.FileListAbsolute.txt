@@ -19,3 +19,4 @@ C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\ConversionDeUnidades\o
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\ConversionDeUnidades\obj\Debug\net8.0-windows\ConversionDeUnidades.genruntimeconfig.cache
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\ConversionDeUnidades\obj\Debug\net8.0-windows\ref\ConversionDeUnidades.dll
 C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\ConversionDeUnidades\obj\Debug\net8.0-windows\ConversionDeUnidades.Resources.resources
+C:\Users\Osvaldo Garcia\source\repos\ConversionDeUnidades\ConversionDeUnidades\obj\Debug\net8.0-windows\ConversionDeUnidades.sourcelink.json
