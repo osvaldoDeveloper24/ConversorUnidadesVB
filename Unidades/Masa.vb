@@ -27,10 +27,21 @@
                     respuesta = numero / 1000000000.0
                 End If
 
-                'Fin miligramos a otras unidades   
 
-            Case 1 ' Gramo
-
+            Case 1 ' Gramo 
+                If (opcionEquivalencia = 0) Then 'Milígramos
+                    respuesta = numero * 1000
+                ElseIf (opcionEquivalencia = 1) Then 'Onzas
+                    respuesta = numero * 1
+                ElseIf (opcionEquivalencia = 2) Then 'Onzas
+                    respuesta = numero / 28.35
+                ElseIf (opcionEquivalencia = 3) Then ' Libras
+                    respuesta = numero / 453.6
+                ElseIf (opcionEquivalencia = 4) Then 'Kilogramos
+                    respuesta = numero / 1000
+                ElseIf (opcionEquivalencia = 5) Then ' Toneladas
+                    respuesta = numero / 1000000.0
+                End If
 
             Case 2 ' Onzas
 

@@ -16,7 +16,7 @@
         resultado = masa.Convertir(cantidad, opcionBase, opcionEquivalencia)
         TextResultado.Text = resultado.ToString()
 
-        Console.WriteLine("Mensaje de prueba")
+
 
     End Sub
 End Class
