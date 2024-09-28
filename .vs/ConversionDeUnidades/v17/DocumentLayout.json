@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\conversiondeunidades\\unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\conversiondeunidades\\unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\conversiondeunidades\\unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\conversiondeunidades\\unidades\\unidad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\unidad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUnidadMasa.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\FormUnidadMasa.vb",
+              "RelativeDocumentMoniker": "Unidades\\FormUnidadMasa.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\FormUnidadMasa.vb",
+              "RelativeToolTip": "Unidades\\FormUnidadMasa.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-28T04:05:19.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUnidadMasa.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\FormUnidadMasa.vb",
+              "RelativeDocumentMoniker": "Unidades\\FormUnidadMasa.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\FormUnidadMasa.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Unidades\\FormUnidadMasa.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-28T04:04:55.099Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Masa.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Masa.vb",
+              "RelativeDocumentMoniker": "Unidades\\Masa.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Masa.vb",
+              "RelativeToolTip": "Unidades\\Masa.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-28T03:38:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unidad.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidad.vb",
+              "RelativeDocumentMoniker": "Unidades\\Unidad.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidad.vb",
+              "RelativeToolTip": "Unidades\\Unidad.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-28T01:03:34.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
