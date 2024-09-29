@@ -44,6 +44,7 @@
                 End If
 
             Case 2 ' Onzas
+                Console.WriteLine("Hola mundo")
 
             Case 3 ' Libras
 
