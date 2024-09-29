@@ -32,3 +32,20 @@ C:\Users\Osvaldo Garcia\Documents\ConversorUnidadesVB.git\Unidades\obj\Debug\net
 C:\Users\Osvaldo Garcia\Documents\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\refint\Unidades.dll
 C:\Users\Osvaldo Garcia\Documents\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.pdb
 C:\Users\Osvaldo Garcia\Documents\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\ref\Unidades.dll
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\bin\Debug\net8.0-windows\Unidades.deps.json
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\bin\Debug\net8.0-windows\Unidades.dll
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\bin\Debug\net8.0-windows\Unidades.pdb
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadAlmacenamiento.resources
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadLongitud.resources
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadMasa.resources
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.FormUnidadTiempo.resources
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.vbproj.GenerateResource.cache
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.AssemblyInfoInputs.cache
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.AssemblyInfo.vb
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.vbproj.CoreCompileInputs.cache
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.sourcelink.json
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.dll
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\refint\Unidades.dll
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\Unidades.pdb
+C:\Users\Rudy2\Downloads\ConversorUnidadesVB.git\Unidades\obj\Debug\net8.0-windows\ref\Unidades.dll
