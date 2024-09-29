@@ -16,17 +16,17 @@
                 If (opcionEquivalencia = 0) Then
                     respuesta = numero * 1 'Milimetro
                 ElseIf (opcionEquivalencia = 1) Then
-                    respuesta = numero / 100000 'Centimetro
+                    respuesta = numero / 0.1 'Centimetro
                 ElseIf (opcionEquivalencia = 2) Then
-                    respuesta = numero / 39370.1 'Pulgada
+                    respuesta = numero / 0.0393701 'Pulgada
                 ElseIf (opcionEquivalencia = 3) Then
-                    respuesta = numero / 3280.84 'Pie
+                    respuesta = numero / 0.00328084 'Pie
                 ElseIf (opcionEquivalencia = 4) Then
-                    respuesta = numero / 1093.61 'Yarda
+                    respuesta = numero / 0.000109361 'Yarda
                 ElseIf (opcionEquivalencia = 5) Then
-                    respuesta = numero / 1000 'Metro
+                    respuesta = numero / 0.001 'Metro
                 ElseIf (opcionEquivalencia = 6) Then
-                    respuesta = numero / 1000000 'Kilometro
+                    respuesta = numero / 0.000001 'Kilometro
                 End If
 
             Case 1 'Centimetro
@@ -124,7 +124,9 @@
                 End If
 
         End Select
+        Return respuesta
     End Function
+
 
 
 End Class
