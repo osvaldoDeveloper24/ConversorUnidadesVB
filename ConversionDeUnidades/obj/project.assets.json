@@ -30,19 +30,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Osvaldo Garcia\\.nuget\\packages\\": {}
+    "C:\\Users\\Rudy2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\ConversionDeUnidades\\ConversionDeUnidades.vbproj",
+      "projectUniqueName": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\ConversionDeUnidades\\ConversionDeUnidades.vbproj",
       "projectName": "ConversionDeUnidades",
-      "projectPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\ConversionDeUnidades\\ConversionDeUnidades.vbproj",
-      "packagesPath": "C:\\Users\\Osvaldo Garcia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\ConversionDeUnidades\\obj\\",
+      "projectPath": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\ConversionDeUnidades\\ConversionDeUnidades.vbproj",
+      "packagesPath": "C:\\Users\\Rudy2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\ConversionDeUnidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Osvaldo Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rudy2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +57,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj": {
-              "projectPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj"
+            "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj": {
+              "projectPath": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj"
             }
           }
         }

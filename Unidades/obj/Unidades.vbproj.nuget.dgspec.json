@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj": {}
+    "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj": {
+    "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj",
+        "projectUniqueName": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj",
         "projectName": "Unidades",
-        "projectPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\Unidades.vbproj",
-        "packagesPath": "C:\\Users\\Osvaldo Garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ConversionDeUnidades\\Unidades\\obj\\",
+        "projectPath": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\Unidades.vbproj",
+        "packagesPath": "C:\\Users\\Rudy2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Osvaldo Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rudy2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
