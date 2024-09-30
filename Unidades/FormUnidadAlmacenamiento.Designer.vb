@@ -106,7 +106,7 @@ Partial Class FormUnidadAlmacenamiento
         ' 
         ComboUnidadEquivalencia.DropDownStyle = ComboBoxStyle.DropDownList
         ComboUnidadEquivalencia.FormattingEnabled = True
-        ComboUnidadEquivalencia.Items.AddRange(New Object() {"Milímetro", "Centimetro", "Pulgada", "Pie", "Yarda", "Metro", "Kilometro"})
+        ComboUnidadEquivalencia.Items.AddRange(New Object() {"Byte", "Kilobyte", "KibiByte", "Megabyte", "Gigabyte", "Terabyte", "Petabyte"})
         ComboUnidadEquivalencia.Location = New Point(382, 161)
         ComboUnidadEquivalencia.Name = "ComboUnidadEquivalencia"
         ComboUnidadEquivalencia.Size = New Size(352, 28)
@@ -116,7 +116,7 @@ Partial Class FormUnidadAlmacenamiento
         ' 
         ComboUnidadBase.DropDownStyle = ComboBoxStyle.DropDownList
         ComboUnidadBase.FormattingEnabled = True
-        ComboUnidadBase.Items.AddRange(New Object() {"Milímetro", "Centimetro", "Pulgada", "Pie", "Yarda", "Metro", "Kilometro"})
+        ComboUnidadBase.Items.AddRange(New Object() {"Byte", "Kilobyte", "KibiByte", "Megabyte", "Gigabyte", "Terabyte", "Petabyte"})
         ComboUnidadBase.Location = New Point(67, 161)
         ComboUnidadBase.Name = "ComboUnidadBase"
         ComboUnidadBase.Size = New Size(288, 28)
