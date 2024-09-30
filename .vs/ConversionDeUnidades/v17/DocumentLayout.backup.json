@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\rudy2\\downloads\\conversorunidadesvb.git\\unidades\\tiempo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\tiempo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -13,6 +14,29 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\rudy2\\downloads\\conversorunidadesvb.git\\unidades\\formunidadlongitud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+=======
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\unidad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\unidad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3675B4-7E06-4026-9BAB-FF62FDA82EC1}|ConversionDeUnidades\\ConversionDeUnidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\conversiondeunidades\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EA3675B4-7E06-4026-9BAB-FF62FDA82EC1}|ConversionDeUnidades\\ConversionDeUnidades.vbproj|solutionrelative:conversiondeunidades\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\formunidadlongitud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
       "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadlongitud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -24,6 +48,7 @@
       "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\longitud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\rudy2\\downloads\\conversorunidadesvb.git\\unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\masa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -66,6 +91,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{65547566-537D-4CFE-8721-A912C9B8B715}|Unidades\\Unidades.vbproj|solutionrelative:unidades\\formunidadmasa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+=======
+      "AbsoluteMoniker": "D:0:0:{EA3675B4-7E06-4026-9BAB-FF62FDA82EC1}|ConversionDeUnidades\\ConversionDeUnidades.vbproj|c:\\users\\osvaldo garcia\\documents\\conversorunidadesvb.git\\conversiondeunidades\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EA3675B4-7E06-4026-9BAB-FF62FDA82EC1}|ConversionDeUnidades\\ConversionDeUnidades.vbproj|solutionrelative:conversiondeunidades\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
     }
   ],
   "DocumentGroupContainers": [
@@ -80,6 +109,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "FormUnidadLongitud.vb",
               "DocumentMoniker": "C:\\Users\\Rudy2\\Downloads\\ConversorUnidadesVB.git\\Unidades\\FormUnidadLongitud.vb",
@@ -150,10 +180,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-29T19:51:43.371Z",
 >>>>>>> 31db37aae709352eb73df2f0cf992b12bf04aa0f
+=======
+              "Title": "Masa.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Masa.vb",
+              "RelativeDocumentMoniker": "Unidades\\Masa.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Masa.vb",
+              "RelativeToolTip": "Unidades\\Masa.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T23:52:33.211Z",
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "FormUnidadLongitud.vb [Dise\u00F1o]",
 <<<<<<< HEAD
@@ -281,11 +322,39 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-29T20:03:56.05Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "Unidad.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Unidad.vb",
+              "RelativeDocumentMoniker": "Unidades\\Unidad.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Unidad.vb",
+              "RelativeToolTip": "Unidades\\Unidad.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T23:44:33.929Z",
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\ConversionDeUnidades\\Form1.vb",
+              "RelativeDocumentMoniker": "ConversionDeUnidades\\Form1.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\ConversionDeUnidades\\Form1.vb",
+              "RelativeToolTip": "ConversionDeUnidades\\Form1.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T21:59:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
               "Title": "FormUnidadMasa.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadMasa.vb",
               "RelativeDocumentMoniker": "Unidades\\FormUnidadMasa.vb",
@@ -294,7 +363,71 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-09-29T20:03:50.699Z",
               "EditorCaption": " [Dise\u00F1o]"
+<<<<<<< HEAD
 >>>>>>> 31db37aae709352eb73df2f0cf992b12bf04aa0f
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUnidadMasa.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadMasa.vb",
+              "RelativeDocumentMoniker": "Unidades\\FormUnidadMasa.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadMasa.vb",
+              "RelativeToolTip": "Unidades\\FormUnidadMasa.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T20:03:56.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUnidadLongitud.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadLongitud.vb",
+              "RelativeDocumentMoniker": "Unidades\\FormUnidadLongitud.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadLongitud.vb",
+              "RelativeToolTip": "Unidades\\FormUnidadLongitud.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T22:15:52.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\ConversionDeUnidades\\Form1.vb",
+              "RelativeDocumentMoniker": "ConversionDeUnidades\\Form1.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\ConversionDeUnidades\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "ConversionDeUnidades\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T21:51:55.818Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Longitud.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Longitud.vb",
+              "RelativeDocumentMoniker": "Unidades\\Longitud.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\Longitud.vb",
+              "RelativeToolTip": "Unidades\\Longitud.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T22:18:21.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUnidadLongitud.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadLongitud.vb",
+              "RelativeDocumentMoniker": "Unidades\\FormUnidadLongitud.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\Documents\\ConversorUnidadesVB.git\\Unidades\\FormUnidadLongitud.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Unidades\\FormUnidadLongitud.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T22:18:27.846Z",
+              "EditorCaption": " [Dise\u00F1o]"
+>>>>>>> 9f0c0b6e212aae04144243e07dc14af7f5ff4dea
             }
           ]
         }

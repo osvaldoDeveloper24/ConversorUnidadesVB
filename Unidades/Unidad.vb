@@ -5,11 +5,7 @@
     Private _unidadEquivalencia As Integer
     Private _simboloUnidad As String
     Private _resultado As Double
-
-
-
     Public Sub New()
-
     End Sub
 
     Public Sub New(valor As Double, unidadBase As Integer, unidadEquivalencia As Integer, simboloUnidad As String)
@@ -18,7 +14,6 @@
         Me._unidadEquivalencia = unidadEquivalencia
         Me._simboloUnidad = simboloUnidad
     End Sub
-
     Public Property Valor As Double
         Get
             Return _valor
@@ -26,7 +21,9 @@
         Set(value As Double)
             Me._valor = value
         End Set
+
     End Property
+
 
     Public Property UnidadBase As Integer
         Get
@@ -63,10 +60,5 @@
             Me._resultado = value
         End Set
     End Property
-
-
-
-
-
 
 End Class
