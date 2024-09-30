@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Unidades"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d19cf02ae885ef1fe01ec587f78454de5ad75d7"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31db37aae709352eb73df2f0cf992b12bf04aa0f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Unidades"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Unidades"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
