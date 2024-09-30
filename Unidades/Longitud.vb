@@ -65,13 +65,15 @@
 
             Case 3 'Pie
                 If (opcionEquivalencia = 0) Then
-                    respuesta = numero * 304.8 'Milimetro
+                    respuesta = numero * 304.8 'milimetro 
                 ElseIf (opcionEquivalencia = 1) Then
                     respuesta = numero * 30.48 'Centimetro
                 ElseIf (opcionEquivalencia = 2) Then
+                    respuesta = numero * 12 'Pulgada
+                ElseIf (opcionEquivalencia = 3) Then
                     respuesta = numero * 1 'Pie
                 ElseIf (opcionEquivalencia = 4) Then
-                    respuesta = numero * 0.3333 'Yarda
+                    respuesta = numero * 0.333333 'Yarda
                 ElseIf (opcionEquivalencia = 5) Then
                     respuesta = numero * 0.3048 'Metro
                 ElseIf (opcionEquivalencia = 6) Then
@@ -80,26 +82,30 @@
 
             Case 4 'Yarda
                 If (opcionEquivalencia = 0) Then
-                    respuesta = numero * 914.4 'Milimetro
+                    respuesta = numero * 914.4 'milimetro 
                 ElseIf (opcionEquivalencia = 1) Then
                     respuesta = numero * 91.44 'Centimetro
                 ElseIf (opcionEquivalencia = 2) Then
+                    respuesta = numero * 36 'Pulgada
+                ElseIf (opcionEquivalencia = 3) Then
                     respuesta = numero * 3 'Pie
                 ElseIf (opcionEquivalencia = 4) Then
-                    respuesta = numero * 1 'Yarda
+                    respuesta = numero * 0.333333 'Yarda
                 ElseIf (opcionEquivalencia = 5) Then
-                    respuesta = numero * 0.9144 'Metro
+                    respuesta = numero * 0.3048 'Metro
                 ElseIf (opcionEquivalencia = 6) Then
-                    respuesta = numero * 0.0009144 'Kilometro
+                    respuesta = numero * 0.0003048 'Kilometro
                 End If
 
             Case 5 'Metro
                 If (opcionEquivalencia = 0) Then
-                    respuesta = numero * 1000 'Milimetro
+                    respuesta = numero * 1000 'milimetro 
                 ElseIf (opcionEquivalencia = 1) Then
                     respuesta = numero * 100 'Centimetro
                 ElseIf (opcionEquivalencia = 2) Then
-                    respuesta = numero * 3.28084 'Pie
+                    respuesta = numero * 39.3701 'Pulgada
+                ElseIf (opcionEquivalencia = 3) Then
+                    respuesta = numero * 3.28 'Pie
                 ElseIf (opcionEquivalencia = 4) Then
                     respuesta = numero * 1.09361 'Yarda
                 ElseIf (opcionEquivalencia = 5) Then
@@ -108,12 +114,14 @@
                     respuesta = numero * 0.001 'Kilometro
                 End If
 
-            Case 6 'Kiometro
+            Case 6 'Kilometro
                 If (opcionEquivalencia = 0) Then
-                    respuesta = numero * 1000000 'Milimetro
+                    respuesta = numero * 1000000.0 'milimetro 
                 ElseIf (opcionEquivalencia = 1) Then
-                    respuesta = numero * 100000 'Centimetro
+                    respuesta = numero * 1000000 'Centimetro
                 ElseIf (opcionEquivalencia = 2) Then
+                    respuesta = numero * 393701 'Pulgada
+                ElseIf (opcionEquivalencia = 3) Then
                     respuesta = numero * 3280.84 'Pie
                 ElseIf (opcionEquivalencia = 4) Then
                     respuesta = numero * 1093.61 'Yarda
@@ -122,7 +130,6 @@
                 ElseIf (opcionEquivalencia = 6) Then
                     respuesta = numero * 1 'Kilometro
                 End If
-
         End Select
         Return respuesta
     End Function
